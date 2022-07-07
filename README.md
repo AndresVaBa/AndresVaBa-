@@ -1,12 +1,13 @@
-#            Hi!  My name is Andres Vazquez :sparkles:  
+# Hi !  My name is Andres Vazquez :sparkles:  
 
 
 
 
-##   Aboute me  :walking: :v:
+##   Aboute me  :memo: :v:
 * I am a professional computer technician   :computer:
 * I enjoy learning new things
 * I love to listen to music :headphones:
+* 
 
 
 
