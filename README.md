@@ -1,6 +1,6 @@
-#            Hi!  My name is Andres Vazquez :rocket:   
+#            Hi!  My name is Andres Vazquez :sparkles:  
 ![markdown](hi.gif)
-:sparkles:
+
 
 
 ##   Aboute me  :walking: :v:
