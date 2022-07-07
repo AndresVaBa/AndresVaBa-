@@ -1,4 +1,4 @@
-# Hi !  My name is Andres Vazquez :sparkles:  
+# Hi !  I'm  Andres Vazquez :sparkles:  
 
 
 
@@ -7,7 +7,7 @@
 * I am a professional computer technician   :computer:
 * I enjoy learning new things
 * I love to listen to music :headphones:
-* 
+* I'm a technology aficionado :satellite:
 
 
 
